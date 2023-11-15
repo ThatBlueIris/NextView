@@ -39,8 +39,8 @@ include 'common.php'; // Include the common file with session checks
             </div>
 
             <div class="options">
-                <a href="../index.html">Home</a>
-                <a href="./about.html">About</a>
+                <a href="../index.php">Home</a>
+                <a href="./about.php">About</a>
             </div>
         </div>
     </nav>

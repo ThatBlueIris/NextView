@@ -35,8 +35,8 @@ include 'common.php'; // Include the common file with session checks
                 <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
             </div>
             <div class="options">
-                <a href="../index.html">Home</a>
-                <a href="./about.html" class="current">About Me</a>
+                <a href="../index.php">Home</a>
+                <a href="./about.php" class="current">About Me</a>
             </div>
         </div>
     </nav>

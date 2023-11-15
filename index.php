@@ -32,8 +32,9 @@ include 'common.php'; // Include the common file with session checks
                 <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
             </div>
             <div class="options">
-                <a href="./index.html" class="current">Home</a>
-                <a href="./html/about.html">About</a>
+                <a href="./index.php" class="current">Home</a>
+                <a href="./html/about.php">About</a>
+                <a href="adminlogin.php">Admin Login</a>
             </div>
         </div>
     </nav>
@@ -45,7 +46,7 @@ include 'common.php'; // Include the common file with session checks
                 <p>
                     Get the latest news updates from around the world. Stay informed with the most important stories.
                 </p>
-                <a href="./html/Latest.html">Read More</a>
+                <a href="./html/Latest.php">Read More</a>
             </div>
         </div>
     </header>
@@ -53,7 +54,7 @@ include 'common.php'; // Include the common file with session checks
         <div class="container">
             <h1 class="editor-h1">Hot Topics</h1>
             <div class="articles">
-                <a href="./html/Entertainment.html" class="card">
+                <a href="./html/Entertainment.php" class="card">
                     <img src="https://assets.bharian.com.my/images/articles/WhatsApp_Image_2023-11-05_at_11.21.28_PM_1699198819.jpg" alt="" />
                     <article>
                         <p class="entertainment-category">Entertainment</p>
@@ -63,7 +64,7 @@ include 'common.php'; // Include the common file with session checks
                         </p>
                     </article>
                 </a>
-                <a href="./html/article.html" class="card">
+                <a href="/html/article.php" class="card">
                     <article>
                         <p class="sports-category">Sports</p>
                         <h1>Sports News</h1>
@@ -72,7 +73,7 @@ include 'common.php'; // Include the common file with session checks
                         </p>
                     </article>
                 </a>
-                <a href="./html/technology.html" class="card">
+                <a href="./html/technology.php" class="card">
                     <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/10912/production/_131585876_hh212_jwst_full_20231030.jpg.webp" alt="" />
                     <article>
                         <p class="technology-category">Technology</p>
@@ -82,7 +83,7 @@ include 'common.php'; // Include the common file with session checks
                         </p>
                     </article>
                 </a>
-                <a href="./html/sports.html" class="card">
+                <a href="./html/sports.php" class="card">
                     <article>
                         <p class="sports-category">Sports</p>
                         <h1>Infantino puji bola sepak Malaysia</h1>
@@ -92,7 +93,7 @@ include 'common.php'; // Include the common file with session checks
                     </article>
                     <img src="https://assets.bharian.com.my/images/articles/fifa510c_1699853706.jpg" alt=""/>
                 </a>
-                <a href="./html/technology2.html" class="card">
+                <a href="./html/technology2.php" class="card">
                     <img src="https://ichef.bbci.co.uk/news/240/cpsprodpb/6996/production/_131603072_p0gqgxsq.jpg" alt="" />
                     <article>
                         <p class="technology-category">Technology</p>
@@ -102,7 +103,7 @@ include 'common.php'; // Include the common file with session checks
                         </p>
                     </article>
                 </a>
-                <a href="./html/article.html" class="card">
+                <a href="./html/article.php" class="card">
                     <article>
                         <p class="sports-category">Sports</p>
                         <h1>Sports News</h1>
@@ -111,7 +112,7 @@ include 'common.php'; // Include the common file with session checks
                         </p>
                     </article>
                 </a>
-                <a href="./html/Entertainment2.html" class="card">
+                <a href="./html/Entertainment2.php" class="card">
                     <article>
                         <p class="entertainment-category">Entertainment</p>
                         <h1>Usah tertipu dengan akaun palsu minta bantuan untuk Gaza - Heliza Helmi</h1>

@@ -51,7 +51,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 $_SESSION["username"] = $username;
 
                 // Redirect to NextView.html after successful login
-                header("Location: index.html");
+                header("Location: index.php");
                 exit();
             } else {
                 echo "Invalid password";
